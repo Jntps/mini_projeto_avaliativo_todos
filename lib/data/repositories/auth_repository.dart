@@ -1,4 +1,4 @@
-import '../../models/user_model.dart';
+import '../models/user_model.dart';
 import '../datasources/api_datasource.dart';
 import '../datasources/prefs_datasource.dart';
 import 'result.dart';
