@@ -21,4 +21,4 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/mini_projeto_avaliativo_todos.git](https://github.com/seu-usuario/mini_projeto_avaliativo_todos.git)
+   git clone https://github.com/Jntps/mini_projeto_avaliativo_todos
